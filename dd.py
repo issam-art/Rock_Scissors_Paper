@@ -1,4 +1,1 @@
-print("hey")
-print("heolle")
-a = 7
-b=8
+print(100_000_000)
